@@ -1,4 +1,1 @@
-# practica4.merging
-Repository to practice on merging branches 
-
-# Primer commit 
+# arturo25081998
